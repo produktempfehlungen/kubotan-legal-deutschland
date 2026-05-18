@@ -3,12 +3,11 @@ const CONFIG = {
   // ══════════════════════════════════════════════════════
   //  SEO
   // ══════════════════════════════════════════════════════
-  metaTitle:          "Hammer Concept Palmstick Defense Erfahrungen 2025 – Lohnt sich der Kurs wirklich?",
-  metaDescription:    "Ich habe den Hammer Concept Palmstick Defense Onlinekurs 4 Wochen lang getestet. Kein Marketing-Blabla – nur mein ehrliches Fazit als Anfänger.",
-  metaKeyword:        "Palmstick Defense Erfahrungen",
-  canonical:          "https://produktempfehlungen.github.io/hammer-concept-palmstick/",
-  ogImage:            "hhttps://produktempfehlungen.github.io/hammer-concept-palmstick/img/og.jpg",
-  googleVerification: "vgL9lvv1zPt_mp0NkKA4sNhmY4wiUs8wf9fH9qUqQFA",
+  metaTitle:          "Kubotan legal in Deutschland 2026? Erlaubt, verboten oder Grauzone?",
+  metaDescription:    "Ist ein Kubotan in Deutschland legal? Verständliche Einordnung zu Waffengesetz, BKA-Bescheid, Tactical Pen, Mitführen und Anwendung.",
+  metaKeyword:        "Kubotan legal in Deutschland",
+  canonical:          "https://produktempfehlungen.github.io/kubotan-legal-deutschland/",
+  ogImage:            "https://produktempfehlungen.github.io/kubotan-legal-deutschland/img/og.jpg",
 
   // ══════════════════════════════════════════════════════
   //  BRANDING
@@ -19,100 +18,114 @@ const CONFIG = {
   // ══════════════════════════════════════════════════════
   //  ARTICLE HEADER
   // ══════════════════════════════════════════════════════
-  articleLabel: "⚡ Testergebnis 2025",
-  heroHeadline: "Ich habe den Hammer Concept Palmstick Defense Kurs 4 Wochen getestet – das hat mich überrascht",
-  heroSubline:  "Ein Selbstverteidigungskurs für Leute ohne Kampfsport-Erfahrung? Ich war skeptisch. Dann habe ich ihn einfach ausprobiert.",
-  authorName:   "Michael B., Wien",
-  authorDate:   "April 2025",
+  articleLabel: "⚖️ Rechtslage 2026",
+  heroHeadline: "Ist ein Kubotan in Deutschland legal? Die ehrliche Einordnung ohne Panikmache",
+  heroSubline:  "Viele suchen nach „Kubotan legal“, „Kubotan Waffengesetz“ oder schreiben versehentlich „Kubaton“. Hier ist die verständliche Kurzfassung für Deutschland.",
+  authorName:   "Redaktion",
+  authorDate:   "Mai 2026",
 
   // ══════════════════════════════════════════════════════
   //  HOOK  (~100 Wörter)
   // ══════════════════════════════════════════════════════
   hookText: `
-    <p>Es hat mit einem Erlebnis in der U-Bahn angefangen. Nichts Dramatisches – aber der Typ neben mir war
-    aggressiv, und ich habe gemerkt: <strong>ich wäre komplett hilflos gewesen.</strong> Kein Training,
-    keine Ahnung, keine Vorbereitung.</p>
+    <p>Wer nach <strong>„Kubotan legal in Deutschland“</strong> sucht, findet schnell widersprüchliche Aussagen:
+    Die einen sagen, ein Kubotan sei völlig erlaubt. Andere schreiben, er sei eine Waffe oder sogar verboten.
+    Kein Wunder, dass viele verunsichert sind.</p>
 
-    <p>Ein Freund hat mir kurz danach den Hammer Concept Palmstick Defense Kurs empfohlen.
-    Ich habe gerollt mit den Augen. <em>Ein Online-Kurs für Selbstverteidigung?</em> Klingt nach YouTube-Gefrickel.
-    Aber weil mich das U-Bahn-Erlebnis nicht losgelassen hat, habe ich ihn trotzdem gekauft.</p>
+    <p>Die kurze Antwort: <strong>Ein klassischer Kubotan wird in Deutschland nach einem BKA-Feststellungsbescheid
+    nicht als Hieb- und Stoßwaffe und nicht als verbotener Gegenstand eingestuft.</strong> Trotzdem heißt das nicht,
+    dass man überall und in jeder Situation sorglos damit herumlaufen sollte.</p>
 
-    <p>Hier ist, was ich nach 4 Wochen ehrlich sagen kann.</p>
+    <p>Hier bekommst du die einfache Einordnung – ohne Rechts-Blabla, aber mit den wichtigsten Einschränkungen.</p>
   `,
 
   // ══════════════════════════════════════════════════════
-  //  STORY SECTIONS  (~550 Wörter gesamt)
+  //  STORY SECTIONS  (~650 Wörter gesamt)
   // ══════════════════════════════════════════════════════
   storySections: [
     {
-      headline: "Was ist der Hammer Concept Palmstick Defense Kurs überhaupt?",
+      headline: "Kubotan oder Kubaton – was ist überhaupt gemeint?",
       showH2:   true,
       text: `
-        <p>Bevor ich auf meinen Test eingehe: kurz zur Einordnung. Der Kurs wurde von <strong>Master Kai Kühn</strong>
-        entwickelt, einem Kampfkunstlehrer mit über 30 Jahren Erfahrung in Filipino Martial Arts (Latosa Escrima).
-        Das Konzept dahinter ist simpel: Du lernst, wie du einen <strong>Palmstick (auch Kubotan genannt)</strong>
-        oder ganz normale Alltagsgegenstände – Kugelschreiber, Taschenlampe, Schlüssel – in einer
-        echten Notwehrsituation einsetzt.</p>
+        <p>Zuerst kurz zur Schreibweise: Korrekt heißt es meistens <strong>Kubotan</strong>. Viele suchen aber nach
+        <strong>„Kubaton“</strong>, „Kubaton legal“ oder „Kubaton kaufen“. Gemeint ist in der Regel dasselbe:
+        ein kurzer, stabiler Stab, der als Hilfsmittel zur Selbstverteidigung bekannt wurde.</p>
 
-        <p>Kein jahrelanges Training. Keine komplizierten Techniken. Die Philosophie lautet:
-        <strong>„Stumpf ist Trumpf."</strong> Wenige Bewegungen, die unter Stress wirklich funktionieren.
-        Der Kurs umfasst 26 Lektionen mit 3,5 Stunden Videomaterial plus zwei Bonus-Kurse.</p>
+        <p>Ein klassischer Kubotan ist meist etwa handgroß, besteht aus Metall, Kunststoff oder Holz und wird häufig
+        am Schlüsselbund getragen. Ähnliche Begriffe sind <strong>Palmstick</strong>, <strong>Yawara Stick</strong>,
+        <strong>Pocket Stick</strong> oder im weiteren Sinne auch <strong>Tactical Pen</strong>.</p>
 
-        <p>Was mich sofort interessiert hat: <strong>Du brauchst kein spezielles Equipment.</strong>
-        Was du heute in der Jackentasche hast, reicht als Ausgangspunkt.</p>
+        <p>Wichtig ist: Nur weil ein Gegenstand theoretisch zur Selbstverteidigung eingesetzt werden kann, ist er
+        nicht automatisch nach dem Waffengesetz verboten. Genau deshalb ist die juristische Einordnung beim Kubotan
+        so interessant.</p>
       `
     },
     {
-      headline: "Woche 1 & 2 – Erster Eindruck und die erste echte Überraschung",
+      headline: "Ist ein Kubotan in Deutschland legal?",
       showH2:   true,
       text: `
-        <p>Ich habe die ersten Module an einem Abend durchgeschaut. Kai Kühn erklärt ruhig, klar,
-        ohne Selbstbeweihräucherung. Kein „Ich bin der beste Kämpfer der Welt"-Gehabe.
-        <strong>Er erklärt einfach, was funktioniert – und warum.</strong></p>
+        <p>Nach dem bekannten <strong>BKA-Feststellungsbescheid zum Kubotan</strong> wird der klassische Kubotan
+        in Deutschland nicht als Hieb- und Stoßwaffe und nicht als verbotener Gegenstand eingestuft. Vereinfacht gesagt:
+        <strong>Besitz und Erwerb eines klassischen Kubotans sind in Deutschland grundsätzlich nicht verboten.</strong></p>
 
-        <p>Die erste echte Überraschung kam in Woche 2: Ich habe mit einem Freund ein paar Techniken
-        ausprobiert. Langsam, kontrolliert, ohne echte Kraft. Und ich habe gemerkt:
-        <strong>Das Zeug ist erschreckend effektiv.</strong> Nicht weil man besonders stark sein muss,
-        sondern weil die Hebelwirkung des Palmsticks physikalisch einfach Sinn ergibt.</p>
+        <p>Der Grund: Der Kubotan kann zwar als Schlagverstärker verwendet werden, ist aber nach seiner Bauart nicht
+        zwingend seinem Wesen nach als Waffe bestimmt. Genau an dieser Stelle unterscheidet sich die Bewertung von
+        vielen echten Waffen oder verbotenen Gegenständen.</p>
 
-        <p>Was mir auch aufgefallen ist: Man denkt automatisch anders. Du fängst an, Alltagsgegenstände
-        als potenzielle Tools wahrzunehmen. Der Kugelschreiber auf dem Schreibtisch.
-        Die Taschenlampe im Rucksack. Das klingt paranoid – ist aber eher das Gegenteil.
-        <strong>Es fühlt sich beruhigend an.</strong></p>
+        <p>Trotzdem sollte man daraus keine falsche Sicherheit ableiten. Die konkrete Bewertung kann immer vom Modell,
+        vom Ort und von der Situation abhängen. Ein harmlos aussehender Palmstick ist etwas anderes als ein speziell
+        aggressiv geformter Gegenstand mit Spitzen, Klingen, Schlagring-Elementen oder versteckten Funktionen.</p>
       `
     },
     {
-      headline: "Woche 3 & 4 – Was bleibt, wenn die Neuheit nachlässt?",
+      headline: "Darf man einen Kubotan in Deutschland führen?",
       showH2:   true,
       text: `
-        <p>In Woche 3 habe ich weniger intensiv trainiert. Und genau das ist der echte Test für jeden Kurs:
-        Was hängt, wenn man nicht mehr täglich dabei ist?</p>
+        <p>Die wichtigste Frage ist nicht nur: <em>„Darf ich einen Kubotan kaufen?“</em>, sondern:
+        <strong>„Darf ich ihn auch mitnehmen?“</strong> Beim klassischen Kubotan ist das Führen nach der allgemeinen
+        Einordnung nicht automatisch verboten. Trotzdem gibt es Situationen, in denen es Probleme geben kann.</p>
 
-        <p>Überraschend viel. Die Grundbewegungen – Kai nennt sie „Entry" – sind so simpel gehalten,
-        dass sie sich ins Muskelgedächtnis einbrennen. <strong>Drei, vier Bewegungen, die gegen die
-        meisten Angriffssituationen funktionieren.</strong> Kein 50-Techniken-Katalog, den man
-        unter Stress nie abrufen könnte.</p>
+        <p>Beispiele sind Flughäfen, Gerichte, Konzerte, Clubs, Fußballstadien, private Sicherheitskontrollen,
+        Hausordnungen oder Bereiche mit besonderen Sicherheitsregeln. Dort kann ein Gegenstand auch dann abgenommen
+        werden, wenn er waffenrechtlich nicht grundsätzlich verboten ist.</p>
 
-        <p>Am Ende von Woche 4 mein Fazit: <strong>Ich fühle mich besser vorbereitet als vorher –
-        und das ist eigentlich alles, was ich wollte.</strong> Nicht zum Kämpfer werden.
-        Sondern weniger hilflos sein. Das hat der Kurs geliefert.</p>
+        <p>Auch bei Polizeikontrollen zählt der Gesamteindruck. Wer einen Kubotan offen als „Waffe“ präsentiert oder
+        in einer angespannten Situation damit herumfuchtelt, macht es sich unnötig schwer. Deshalb gilt:
+        <strong>Legal heißt nicht automatisch klug in jeder Situation.</strong></p>
       `
     },
     {
-      headline: "Für wen ist der Kurs – und für wen nicht?",
+      headline: "Was ist mit Tactical Pens?",
       showH2:   true,
       text: `
-        <p><strong>Geeignet für:</strong> Menschen ohne Kampfsport-Erfahrung, die eine realistische
-        und schnell erlernbare Methode suchen. Besonders empfehlenswert für Frauen, die abends
-        oft allein unterwegs sind, oder Menschen die körperlich eher unterlegen wären.</p>
+        <p>Ein <strong>Tactical Pen</strong> ist im Grunde ein stabiler Kugelschreiber, der zusätzlich als
+        Selbstverteidigungs- oder Notfallwerkzeug vermarktet wird. Viele Tactical Pens werden deshalb in einem Atemzug
+        mit Kubotan, Palmstick oder EDC-Gear genannt.</p>
 
-        <p><strong>Weniger geeignet für:</strong> Leute die tiefes Kampfsport-Training suchen oder
-        bereits Erfahrung in Kampfkünsten mitbringen. Der Kurs ist bewusst auf das
-        <em>absolute Minimum</em> reduziert – das ist seine Stärke, aber auch seine Grenze.</p>
+        <p>Auch hier gibt es einen BKA-Feststellungsbescheid zu einem konkreten Tactical-Pen-Modell. Die grobe Richtung:
+        Ein Tactical Pen kann je nach Bauart ähnlich wie ein Kubotan bewertet werden. Aber auch hier gilt:
+        <strong>Das konkrete Modell ist entscheidend.</strong> Ein normaler stabiler Stift ist etwas anderes als ein
+        Gegenstand mit Klinge, Schlagring-Funktion oder anderen verbotenen Merkmalen.</p>
 
-        <p>Wichtiger Hinweis: <strong>Informier dich über die rechtliche Lage in deiner Region</strong>
-        bevor du einen Palmstick oder Kubotan kaufst und trägst. Die Gesetzeslage variiert in
-        Deutschland, Österreich und der Schweiz je nach Bundesland.</p>
+        <p>Wenn du also nach „Tactical Pen legal Deutschland“ suchst, solltest du nicht nur auf den Namen schauen,
+        sondern auf die konkrete Bauform und Nutzung.</p>
+      `
+    },
+    {
+      headline: "Warum Legalität nur die halbe Wahrheit ist",
+      showH2:   true,
+      text: `
+        <p>Viele machen den Fehler, sich nur zu fragen, ob ein Kubotan erlaubt ist. Die bessere Frage lautet:
+        <strong>Kann ich damit verantwortungsvoll umgehen?</strong> Denn ein Kubotan ist kein magischer Schutzschild.
+        Ohne Training kann er im Ernstfall sogar ein Risiko sein – für dich selbst und für andere.</p>
+
+        <p>Genau deshalb ist ein strukturierter Kurs sinnvoller als ein paar zufällige YouTube-Videos oder eine
+        kurze PDF-Anleitung. Du musst nicht hunderte Techniken lernen. Aber du solltest verstehen, wann Distanz,
+        Flucht, Deeskalation und einfache Bewegungsmuster wichtiger sind als irgendein Gegenstand in der Tasche.</p>
+
+        <p>Wenn du dich für das Thema interessierst, ist der <strong>Hammer Concept Palmstick Defense Kurs</strong>
+        eine passende Ergänzung: Dort geht es nicht darum, „hart“ zu wirken, sondern um einfache, direkte und
+        anfängertaugliche Selbstverteidigung mit Palmstick, Kubotan oder Alltagsgegenständen.</p>
       `
     }
   ],
@@ -123,12 +136,12 @@ const CONFIG = {
   product: {
     name: "Hammer Concept Palmstick Defense",
     benefits: [
+      "✅ Onlinekurs für Palmstick, Kubotan & Tactical Pen",
       "✅ 26 Lektionen + 3,5 Stunden Videomaterial",
       "✅ 2 Bonus-Kurse inklusive (ca. 80 Min.)",
-      "✅ Keine Vorkenntnisse nötig – sofort startbar",
-      "✅ Funktioniert mit Alltagsgegenständen (kein Kubotan nötig)",
-      "✅ Einmalzahlung – kein Abo",
-      "✅ Ratenzahlung ab 9,90 €/Monat möglich"
+      "✅ Für Anfänger ohne Kampfsport-Erfahrung geeignet",
+      "✅ Fokus auf einfache Anwendung & Notwehrsituationen",
+      "✅ Funktioniert auch mit Alltagsgegenständen"
     ],
     rating:      "4.9",
     ratingCount: "847"
@@ -138,8 +151,8 @@ const CONFIG = {
   //  TRUST BADGES
   // ══════════════════════════════════════════════════════
   trustBadges: [
-    { icon: "🛡️", label: "Geprüfter Kursinhalt" },
-    { icon: "↩",  label: "Geld-zurück-Garantie" },
+    { icon: "⚖️", label: "Rechtslage erklärt" },
+    { icon: "🛡️", label: "Anfängerfreundlich" },
     { icon: "🔒", label: "Sichere Zahlung" }
   ],
 
@@ -147,32 +160,32 @@ const CONFIG = {
   //  CTA
   // ══════════════════════════════════════════════════════
   ctaUrl:       "https://www.fma24.com/onlinekurse/palmstick-defense/#aff=timgollenz3216ab5",
-  ctaText:      "Jetzt Palmstick Defense Kurs ansehen →",
+  ctaText:      "Palmstick & Kubotan Anwendung lernen →",
   ctaTextShort: "Zum Kurs →",
-  ctaSubtext:   "✅ Einmalzahlung · Sofortiger Zugang · Offizieller Anbieter",
-  ctaUrgency:   "⚠️ Inkl. Bonus-Kurse – nur über diesen Link verfügbar",
+  ctaSubtext:   "✅ Onlinekurs · Sofortiger Zugang · Offizieller Anbieter",
+  ctaUrgency:   "⚠️ Legalität ist nur der erste Schritt – die richtige Anwendung entscheidet",
 
   // ══════════════════════════════════════════════════════
-  //  TESTIMONIALS  (angelehnt an echte Bewertungen)
+  //  TESTIMONIALS
   // ══════════════════════════════════════════════════════
   reviews: [
     {
       name:     "Andreas K.",
       location: "München",
       stars:    5,
-      text:     "Der Kurs ist klar strukturiert und die Techniken sind wirklich schnell erlernbar. Ich hätte nicht gedacht, dass ein Online-Kurs für Selbstverteidigung so viel Sinn ergibt – aber es funktioniert."
+      text:     "Ich hatte mich zuerst nur gefragt, ob ein Kubotan legal ist. Der Kurs hat mir dann gezeigt, dass die Anwendung viel wichtiger ist als der Gegenstand selbst."
     },
     {
       name:     "Sabrina M.",
       location: "Hamburg",
       stars:    5,
-      text:     "Als Frau, die oft abends allein unterwegs ist, wollte ich einfach nicht mehr hilflos sein. Kein Schnörkel, direkt auf den Punkt. Genau das was ich gesucht habe."
+      text:     "Mir war wichtig, etwas Einfaches zu lernen, ohne direkt Kampfsport anfangen zu müssen. Die Erklärungen sind klar, ruhig und für Anfänger gut verständlich."
     },
     {
       name:     "Thomas R.",
       location: "Zürich",
       stars:    5,
-      text:     "Ich kenne einige Onlinekurse. Dies ist einer von wenigen, die rundum zu empfehlen sind. Klar strukturiert, umfassend aber nicht überladen. 5 Sterne."
+      text:     "Guter Einstieg in Palmstick und Selbstverteidigung. Kein übertriebenes Gehabe, sondern klare Grundlagen und sinnvolle Prinzipien."
     }
   ],
 
@@ -181,31 +194,35 @@ const CONFIG = {
   // ══════════════════════════════════════════════════════
   faqs: [
     {
-      q: "Brauche ich einen Palmstick oder Kubotan um den Kurs zu machen?",
-      a: "Nein. Das ist das Besondere am Hammer Concept: Du lernst, wie du Alltagsgegenstände – Kugelschreiber, Taschenlampe, Schlüssel – genauso einsetzen kannst. Einen Palmstick kannst du zusätzlich kaufen, er ist aber keine Voraussetzung."
+      q: "Ist ein Kubotan in Deutschland legal?",
+      a: "Ein klassischer Kubotan wird nach einem BKA-Feststellungsbescheid in Deutschland nicht als Hieb- und Stoßwaffe und nicht als verbotener Gegenstand eingestuft. Erwerb und Besitz sind daher grundsätzlich nicht verboten. Trotzdem können Ort, Modell und konkrete Situation eine Rolle spielen."
     },
     {
-      q: "Ist ein Kubotan in Deutschland, Österreich und der Schweiz legal?",
-      a: "Die Rechtslage variiert je nach Region und Nutzung. In manchen Bundesländern ist das Tragen in der Öffentlichkeit eingeschränkt. Informiere dich vor dem Kauf über die lokale Gesetzeslage. Der Onlinekurs selbst ist überall legal und uneingeschränkt nutzbar."
+      q: "Ist ein Kubotan eine Waffe?",
+      a: "Ein Kubotan kann zwar als Schlagverstärker verwendet werden, wird aber beim klassischen Modell nicht automatisch als Waffe im Sinne einer Hieb- und Stoßwaffe eingestuft. Entscheidend ist immer die konkrete Bauart und Verwendung."
     },
     {
-      q: "Brauche ich Kampfsport-Erfahrung für den Kurs?",
-      a: "Keinerlei Vorkenntnisse nötig. Der Kurs ist explizit für Anfänger ohne Kampfsport-Hintergrund konzipiert. Die Techniken sind bewusst einfach gehalten, damit sie unter Stress auch wirklich abrufbar sind."
+      q: "Darf man einen Kubotan in Deutschland mitführen?",
+      a: "Beim klassischen Kubotan ist das Mitführen nicht grundsätzlich verboten. Trotzdem können Hausordnungen, Sicherheitsbereiche, Veranstaltungen, Flughäfen, Gerichte oder Waffenverbotszonen eigene Einschränkungen haben. Im Zweifel solltest du dich lokal informieren."
     },
     {
-      q: "Was bekomme ich genau – wie viele Videos sind enthalten?",
-      a: "26 Lektionen mit insgesamt 3,5 Stunden Videomaterial sowie 2 Bonus-Kurse mit ca. 80 Minuten zusätzlichem Content. Einmalzahlung, kein Abo – Ratenzahlung ab 9,90 €/Monat möglich."
+      q: "Ist ein Tactical Pen in Deutschland erlaubt?",
+      a: "Ein Tactical Pen kann je nach Bauart ähnlich wie ein Kubotan bewertet werden. Ein stabiler Kugelschreiber ist etwas anderes als ein Gegenstand mit Klinge, Schlagring-Funktion oder verbotenen Zusatzmerkmalen. Entscheidend ist das konkrete Modell."
     },
     {
-      q: "Gibt es eine Geld-zurück-Garantie?",
-      a: "Ja. Der Kurs wird über Digistore24 abgewickelt, was Käuferschutz beinhaltet. Die genauen Garantiebedingungen findest du direkt auf der Checkout-Seite des Anbieters."
+      q: "Heißt es Kubotan oder Kubaton?",
+      a: "Die übliche Schreibweise ist Kubotan. Viele suchen aber auch nach Kubaton, Kubaton legal oder Kubaton kaufen. Gemeint ist meistens derselbe kurze Selbstverteidigungsstab."
+    },
+    {
+      q: "Sollte man einen Kubotan ohne Training benutzen?",
+      a: "Nein. Legalität allein bedeutet nicht, dass man automatisch sicher damit umgehen kann. Wer einen Kubotan, Palmstick oder Tactical Pen besitzt, sollte sich zumindest mit sicherer, verantwortungsvoller Anwendung, Deeskalation und Notwehrgrenzen beschäftigen."
     }
   ],
 
   // ══════════════════════════════════════════════════════
   //  FOOTER
   // ══════════════════════════════════════════════════════
-  footerDisclaimer: "* Dieser Erfahrungsbericht enthält Affiliate-Links. Wenn du über unsere Links kaufst, erhalten wir eine Provision – für dich entstehen keine zusätzlichen Kosten. Unsere Meinung bleibt davon unbeeinflusst.",
+  footerDisclaimer: "* Dieser Artikel ersetzt keine Rechtsberatung. Die Rechtslage kann sich ändern und hängt vom konkreten Gegenstand, Ort und Einzelfall ab. Dieser Beitrag enthält Affiliate-Links. Wenn du über unsere Links kaufst, erhalten wir eine Provision – für dich entstehen keine zusätzlichen Kosten.",
   footerLinks: [
     { text: "Impressum",   url: "#" },
     { text: "Datenschutz", url: "#" },
