@@ -160,7 +160,7 @@ const CONFIG = {
   //  CTA
   // ══════════════════════════════════════════════════════
   ctaUrl:       "https://www.fma24.com/onlinekurse/palmstick-defense/#aff=timgollenz3216ab5",
-  ctaText:      "Palmstick & Kubotan Anwendung lernen →",
+  ctaText:      "Palmstick & Kubotan Anwendung lernen* →",
   ctaTextShort: "Zum Kurs* →",
   ctaSubtext:   "✅ Onlinekurs · Sofortiger Zugang · Offizieller Anbieter",
   ctaUrgency:   "⚠️ Legalität ist nur der erste Schritt – die richtige Anwendung entscheidet",
