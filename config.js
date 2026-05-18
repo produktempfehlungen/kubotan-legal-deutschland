@@ -21,7 +21,7 @@ const CONFIG = {
   articleLabel: "⚖️ Rechtslage 2026",
   heroHeadline: "Ist ein Kubotan in Deutschland legal? Die ehrliche Einordnung ohne Panikmache",
   heroSubline:  "Viele suchen nach „Kubotan legal“, „Kubotan Waffengesetz“ oder schreiben versehentlich „Kubaton“. Hier ist die verständliche Kurzfassung für Deutschland.",
-  authorName:   "Redaktion",
+  authorName:   "Michael B.",
   authorDate:   "Mai 2026",
 
   // ══════════════════════════════════════════════════════
